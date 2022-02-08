@@ -1,0 +1,8 @@
+# Online Python - IDE, Editor, Compiler, Interpreter
+#convert kilometres into centimetres
+KM=float(input("ENTER KM"))
+CM=(KM*100000)
+print ("Converting KM into CM",CM)
+ENTER KM
+8
+Converting KM into CM 800000.0
